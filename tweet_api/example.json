@@ -1,0 +1,9 @@
+{
+  "tweet_id": "12345",
+  "timestamp": "2025-07-21T02:00:00Z",
+  "text": "Hatay’da suya ihtiyacımız var",
+  "location": "Hatay",
+  "need_type": "su",
+  "person_count": 10,
+  "priority_score": "çok acil"
+}

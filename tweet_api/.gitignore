@@ -1,0 +1,10 @@
+# sanal ortam
+venv/
+.env
+
+# Python önbellekleri
+__pycache__/
+*.py[cod]
+
+# Editör dosyaları
+.vscode/
