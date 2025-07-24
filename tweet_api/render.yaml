@@ -1,0 +1,9 @@
+services:
+  - type: web
+    name: fastapi-afet
+    runtime: python
+    buildCommand: ""
+    startCommand: uvicorn tweet_api.main:app --host 0.0.0.0 --port 10000
+    env: python
+    plan: free
+    region: frankfurt
